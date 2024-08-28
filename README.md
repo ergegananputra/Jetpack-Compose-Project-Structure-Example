@@ -20,7 +20,7 @@ This project demonstrates the use of dependency injection in an Android applicat
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/jetpack-compose-project-structure-example.git
+    git clone https://github.com/ergegananputra/jetpack-compose-project-structure-example.git
     cd jetpack-compose-project-structure-example
     ```
 
