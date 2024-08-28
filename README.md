@@ -4,10 +4,10 @@ This project demonstrates the use of dependency injection in an Android applicat
 
 ## Project Structure
 
-- `app/src/main/java/com/minizuure/dependencyinjection/`: Main application code.
-- `app/src/main/java/com/minizuure/dependencyinjection/domain/`: Domain layer containing constants, entities, and repositories.
-- `app/src/main/java/com/minizuure/dependencyinjection/ui/`: UI layer containing presentation logic and composables.
-- `app/src/main/java/com/minizuure/dependencyinjection/zetsdevelopment/`: Mock implementations for testing and development.
+- `app/src/main/java/com/github/ergegananputra_jetpack_compose_project_structure_example/`: Main application code.
+- `app/src/main/java/com/github/ergegananputra_jetpack_compose_project_structure_example/domain/`: Domain layer containing constants, entities, and repositories.
+- `app/src/main/java/com/github/ergegananputra_jetpack_compose_project_structure_example/ui/`: UI layer containing presentation logic and composables.
+- `app/src/main/java/com/github/ergegananputra_jetpack_compose_project_structure_example/zetsdevelopment/`: Mock implementations for testing and development.
 
 ## Features
 
